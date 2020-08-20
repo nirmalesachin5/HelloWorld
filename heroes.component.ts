@@ -21,5 +21,6 @@ export class HeroesComponent implements OnInit {
   ngOnInit() {
   }
   getDate(){}
+  getFun(){}
 
 }
